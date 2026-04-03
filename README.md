@@ -1,3 +1,15 @@
+---
+title: カップウィズハンドル検出ツール
+emoji: 📈
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.32.0"
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # カップウィズハンドル検出ツール
 
 株価チャートの「カップウィズハンドル（Cup with Handle）」パターンを自動検出するWebアプリです。
